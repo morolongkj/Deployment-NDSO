@@ -1,0 +1,1 @@
+import{$b as i,Tb as r,oa as o,yb as n,zb as a}from"./chunk-AK6AH6QP.js";var m=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=o({type:e,selectors:[["app-dashboard"]],standalone:!0,features:[i],decls:2,vars:0,template:function(t,d){t&1&&(n(0,"p"),r(1,"dashboard works!"),a())}})}}return e})();export{m as a};
