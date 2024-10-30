@@ -1,0 +1,1 @@
+import{Ub as a,ac as r,oa as n,yb as o,zb as i}from"./chunk-MLHGNWXV.js";var c=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["app-bid-create"]],standalone:!0,features:[r],decls:2,vars:0,template:function(t,d){t&1&&(o(0,"p"),a(1,"bid-create works!"),i())}})}}return e})();export{c as BidCreateComponent};
