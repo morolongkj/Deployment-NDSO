@@ -1,1 +1,0 @@
-import{$b as a,Tb as s,oa as n,yb as i,zb as o}from"./chunk-N6N27DRQ.js";var m=(()=>{class t{static{this.\u0275fac=function(e){return new(e||t)}}static{this.\u0275cmp=n({type:t,selectors:[["app-bid-list"]],standalone:!0,features:[a],decls:2,vars:0,template:function(e,p){e&1&&(i(0,"p"),s(1,"bid-list works!"),o())}})}}return t})();export{m as BidListComponent};
